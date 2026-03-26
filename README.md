@@ -25,7 +25,6 @@ My main tech stack is routing, switching, network security, and python. My favou
 I don't just study networking, I actually run a homelab at home with real enterprise gear so I can lab everything I learn.
 
 Fun Facts:
-
-I game in my spare time
-I use linkedin as my road map, documenting the journey
-Im a huge cinema lover
+. I game in my spare time
+. I use linkedin as my road map, documenting the journey
+. Im a huge cinema lover
