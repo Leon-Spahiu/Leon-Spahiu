@@ -14,17 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm Leon, a networking and cybersecurity student based in Adelaide, Australia.
 
 I build networks and break things to understand how they work.
 
 If it has packets flowing through it, chances are I want to get my hands on it and figure out exactly what's going on.
 
-My main tech stack is routing, switching, network security, and python. My favourite tools are Cisco packet tracer and Cisco Modeling Labs.
-
 I don't just study networking, I actually run a homelab at home with real enterprise gear so I can lab everything I learn.
 
-**Fun Facts:**
-- I game in my spare time
-- I use LinkedIn as my road map, documenting the journey
-- I'm a huge cinema lover
+---
+
+## Tools & Tech
+
+- Cisco IOS, Packet Tracer, Cisco Modeling Labs
+- OPNsense, Proxmox
+- Routing, Switching, Network Security, Vlans, Trunks, Python
+
+---
+
+## A Bit About Me
+
+- 🎮 I game in my spare time
+- 🎬 I'm a huge cinema lover
+- 📖 I use LinkedIn as my road map, documenting the journey
